@@ -49,7 +49,7 @@ themafooter:
 navfooter:
   - subnav:
       - title: Veelgestelde vragen
-        path: /faq
+        path: /
 
 
 
